@@ -39,3 +39,18 @@ Push and pop operations, O(1) as only interact with top element
 Can implement stack with linked list: [using lists as stacks](https://docs.python.org/2/tutorial/datastructures.html#using-lists-as-stacks)
 
 LIFO: Last in, first out
+
+## Queues
+
+First in, first out
+
+Enqueue: add tail of queue
+Dequeue: remove from head
+Peek: view element at head
+
+Implement with linked-list
+
+Deques: double-ended queue
+Priority queue: dequeue action follows priority assigned to elements
+
+[Using lists as queues](https://docs.python.org/2/tutorial/datastructures.html#using-lists-as-queues)
